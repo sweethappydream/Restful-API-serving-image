@@ -1,4 +1,4 @@
-# Image Server REST
+# Restful-API-serving-image
 A simple image server that uses REST APIs to register/login user and lets him/her upload images to it.
 
 <p align="center">
